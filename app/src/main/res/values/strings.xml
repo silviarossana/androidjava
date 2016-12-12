@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarcianitoAplicacion</string>
+    <string name="msj_inicio">Bienvenido</string>
+    <string name="btn_login">Entrar</string>
+</resources>
